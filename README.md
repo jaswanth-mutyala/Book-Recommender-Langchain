@@ -2,10 +2,6 @@
 
 A smart book recommendation system built using **LangChain**, **Hugging Face Transformers**, **Chroma vector DB**, and **Gradio**. This project allows users to input a book they love and get intelligent recommendations based on semantic similarity.
 
-## 🚀 Demo
-
-> Enter a book title and get similar books recommended instantly through a clean Gradio web interface!
-
 ## 🧠 Tech Stack
 
 - **LangChain**: For chaining LLM-compatible components
